@@ -1,0 +1,14 @@
+C:\Users\wonde\Desktop\42539285_prac5\bin\Debug\Data.mdf
+C:\Users\wonde\Desktop\42539285_prac5\bin\Debug\Data_log.ldf
+C:\Users\wonde\Desktop\42539285_prac5\bin\Debug\42539285_prac5.exe.config
+C:\Users\wonde\Desktop\42539285_prac5\bin\Debug\42539285_prac5.exe
+C:\Users\wonde\Desktop\42539285_prac5\bin\Debug\42539285_prac5.pdb
+C:\Users\wonde\Desktop\42539285_prac5\obj\Debug\42539285_prac5.csproj.AssemblyReference.cache
+C:\Users\wonde\Desktop\42539285_prac5\obj\Debug\_42539285_prac5.EditProducts.resources
+C:\Users\wonde\Desktop\42539285_prac5\obj\Debug\_42539285_prac5.Form1.resources
+C:\Users\wonde\Desktop\42539285_prac5\obj\Debug\_42539285_prac5.Products.resources
+C:\Users\wonde\Desktop\42539285_prac5\obj\Debug\_42539285_prac5.Properties.Resources.resources
+C:\Users\wonde\Desktop\42539285_prac5\obj\Debug\42539285_prac5.csproj.GenerateResource.cache
+C:\Users\wonde\Desktop\42539285_prac5\obj\Debug\42539285_prac5.csproj.CoreCompileInputs.cache
+C:\Users\wonde\Desktop\42539285_prac5\obj\Debug\42539285_prac5.exe
+C:\Users\wonde\Desktop\42539285_prac5\obj\Debug\42539285_prac5.pdb
