@@ -1,0 +1,14 @@
+C:\Users\sesha\source\repos\40972364_Seshayi_Prac4\40972364_Seshayi_Prac4\bin\Debug\Producuts.mdf
+C:\Users\sesha\source\repos\40972364_Seshayi_Prac4\40972364_Seshayi_Prac4\bin\Debug\Producuts_log.ldf
+C:\Users\sesha\source\repos\40972364_Seshayi_Prac4\40972364_Seshayi_Prac4\bin\Debug\40972364_Seshayi_Prac4.exe.config
+C:\Users\sesha\source\repos\40972364_Seshayi_Prac4\40972364_Seshayi_Prac4\bin\Debug\40972364_Seshayi_Prac4.exe
+C:\Users\sesha\source\repos\40972364_Seshayi_Prac4\40972364_Seshayi_Prac4\bin\Debug\40972364_Seshayi_Prac4.pdb
+C:\Users\sesha\source\repos\40972364_Seshayi_Prac4\40972364_Seshayi_Prac4\obj\Debug\40972364_Seshayi_Prac4.csproj.AssemblyReference.cache
+C:\Users\sesha\source\repos\40972364_Seshayi_Prac4\40972364_Seshayi_Prac4\obj\Debug\_40972364_Seshayi_Prac4.EditProducts.resources
+C:\Users\sesha\source\repos\40972364_Seshayi_Prac4\40972364_Seshayi_Prac4\obj\Debug\_40972364_Seshayi_Prac4.Form1.resources
+C:\Users\sesha\source\repos\40972364_Seshayi_Prac4\40972364_Seshayi_Prac4\obj\Debug\_40972364_Seshayi_Prac4.Properties.Resources.resources
+C:\Users\sesha\source\repos\40972364_Seshayi_Prac4\40972364_Seshayi_Prac4\obj\Debug\_40972364_Seshayi_Prac4.ViewProducts.resources
+C:\Users\sesha\source\repos\40972364_Seshayi_Prac4\40972364_Seshayi_Prac4\obj\Debug\40972364_Seshayi_Prac4.csproj.GenerateResource.cache
+C:\Users\sesha\source\repos\40972364_Seshayi_Prac4\40972364_Seshayi_Prac4\obj\Debug\40972364_Seshayi_Prac4.csproj.CoreCompileInputs.cache
+C:\Users\sesha\source\repos\40972364_Seshayi_Prac4\40972364_Seshayi_Prac4\obj\Debug\40972364_Seshayi_Prac4.exe
+C:\Users\sesha\source\repos\40972364_Seshayi_Prac4\40972364_Seshayi_Prac4\obj\Debug\40972364_Seshayi_Prac4.pdb
